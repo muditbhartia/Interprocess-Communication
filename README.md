@@ -49,8 +49,8 @@ One more difference between pipes and named pipes is that the capacity of data i
 
 1. ###	Using Sockets in C
 
-1.Open the Terminal
-2.Go to the directory where the code is saved
+1. Open the Terminal
+2. Go to the directory where the code is saved
 3. Write the following command in terminal:
 
 ```
@@ -60,7 +60,7 @@ gcc server.c -pthread
 
 ```
 
-1.Open the Terminal in the same directory
+1. Open the Terminal in the same directory
 2. Write the following command in terminal:
 
 ```
@@ -77,8 +77,8 @@ gcc client.c -pthread
 
 2. ###	Using Named Pipes FIFO
 
-1.Open the Terminal
-2.Go to the directory where the code is saved
+1. Open the Terminal
+2. Go to the directory where the code is saved
 3. Write the following command in terminal:
 
 ```
@@ -86,7 +86,7 @@ gcc write.c && ./a.out
 
 ```
 
-1.Open the Terminal in the same directory
+1. Open the Terminal in the same directory
 2. Write the following command in terminal:
 
 ```
